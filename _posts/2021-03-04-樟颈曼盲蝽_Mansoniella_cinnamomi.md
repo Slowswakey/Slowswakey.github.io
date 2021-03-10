@@ -11,6 +11,7 @@ tags:
 ---
 
 ![樟颈曼盲蝽 Mansoniella cinnamomi](https://github.com/Slowswakey/Slowswakey.github.io/raw/master/Insecta/%E5%8D%8A%E7%BF%85%E7%9B%AE%20Hemiptera/%E7%9B%B2%E8%9D%BD%E7%A7%91%20Miridae/%E6%9B%BC%E7%9B%B2%E8%9D%BD%E5%B1%9E%20Mansoniella/%E6%A8%9F%E9%A2%88%E6%9B%BC%E7%9B%B2%E8%9D%BD%20Mansoniella%20cinnamomi.jpg)
+樟颈曼盲蝽 Mansoniella cinnamomi 标本照
 
 采集人：冯浈皓   采集地点：南京市外国语学校   采集时间：2021.1.20
 
