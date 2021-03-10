@@ -11,6 +11,6 @@ tags:
 ---
 
 ![苎麻双脊天牛 Paraglenea fortunei](https://github.com/Slowswakey/Slowswakey.github.io/raw/master/Insecta/%E9%9E%98%E7%BF%85%E7%9B%AE%20Coleoptera/%E5%A4%A9%E7%89%9B%E7%A7%91%20Cerambycidae/%E5%8F%8C%E8%84%8A%E5%A4%A9%E7%89%9B%E5%B1%9E%20Paraglenea/%E8%8B%8E%E9%BA%BB%E5%8F%8C%E8%84%8A%E5%A4%A9%E7%89%9B%20Paraglenea%20fortunei%20%E7%94%9F%E6%80%81%E7%85%A71.JPG)
-苎麻双脊天牛 Paraglenea fortunei 生态照1
+苎麻双脊天牛 Paraglenea fortunei 生态照1 （拍摄地：宝华山）
 
 鉴定描述：体长15mm左右；黑色，被青绿色绒毛，并饰有黑色斑纹。前胸背板淡色，中区两侧各有1个圆形黑色斑。鞘翅斑纹变化较大，形成不同的花色斑，一般每鞘翅有3个黑色大斑；翅端色淡。
