@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      黄粉鹿花金龟 Dicranocephalus wallichi
-subtitle:   鹿花金龟属 Dicranocephalus
+title:      黄粉鹿花金龟 Dicronocephalus wallichi
+subtitle:   鹿花金龟属 Dicronocephalus
 date:       2021-3-9
 author:     Winsten Slowswakey
 header-img: img/FJBC-tag.png
