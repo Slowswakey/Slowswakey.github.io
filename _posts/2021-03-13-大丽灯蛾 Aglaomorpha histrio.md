@@ -2,7 +2,7 @@
 layout:     post
 title:      大丽灯蛾 Aglaomorpha histrio
 subtitle:   大丽灯蛾属 Aglaomorpha
-date:       2021-3-11
+date:       2021-3-13
 author:     Winsten Slowswakey
 header-img: img/FJBC-tag.png
 catalog:   true

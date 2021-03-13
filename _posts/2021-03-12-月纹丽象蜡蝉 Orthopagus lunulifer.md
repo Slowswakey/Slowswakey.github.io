@@ -2,7 +2,7 @@
 layout:     post
 title:      月纹丽象蜡蝉 Orthopagus lunulifer
 subtitle:   丽象蜡蝉属 Orthopagus
-date:       2021-3-11
+date:       2021-3-12
 author:     Winsten Slowswakey
 header-img: img/FJBC-tag.png
 catalog:   true

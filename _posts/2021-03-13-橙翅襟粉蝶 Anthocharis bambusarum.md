@@ -2,7 +2,7 @@
 layout:     post
 title:      橙翅襟粉蝶 Anthocharis bambusarum
 subtitle:   襟粉蝶属 Anthocharis
-date:       2021-3-11
+date:       2021-3-13
 author:     Winsten Slowswakey
 header-img: img/FJBC-tag.png
 catalog:   true
