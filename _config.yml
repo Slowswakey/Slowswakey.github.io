@@ -13,8 +13,12 @@ github_repo: "https://github.com/Slowswakey/Slowswakey.github.io.git" # you code
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Winsten Slowswakey"
 sidebar-avatar: /img/1.png      # use absolute URL, seeing it's used in both `/` and `/about/`
-
-
+<table border="1">
+    <tr>
+        <td>标本库现有藏品数</td>
+        <td>110</td>
+    </tr>
+</table>
 
 # SNS settings
 RSS: false
